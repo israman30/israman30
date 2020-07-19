@@ -1,7 +1,8 @@
 ### Hi there, I'm pretending to be a Software Engineer! 👋
 
-![Alt text](https://www.canva.com/design/DAECcTZRMEA/YwQv2IPXanqwMxy9_IbSRw/view?utm_content=DAECcTZRMEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-<img alt="image" src="https://www.canva.com/design/DAECcTZRMEA/YwQv2IPXanqwMxy9_IbSRw/view?utm_content=DAECcTZRMEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+<p align="center">
+  <img src="https://www.canva.com/design/DAECcTZRMEA/YwQv2IPXanqwMxy9_IbSRw/view?utm_content=DAECcTZRMEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="350" title="hover text">
+</p>
 <!--
 **israman30/israman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm pretending to be a Software Engineer! 👋
 
 <!--
 **israman30/israman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

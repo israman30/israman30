@@ -2,7 +2,7 @@
 
 [GitHub](http://github.com.israman30/israman30/iOS.pdf)
 
-![Alt Text](https://github.com/israman30/israman30/blob/master/iOS.pdf)
+![Alt Text](https://github.com/israman30/israman30/iOS.pdf)
 
 
 <!--

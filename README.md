@@ -1,7 +1,6 @@
 ### Hi there, I'm pretending to be a Software Engineer! 👋
 
-
-![alt text](https://github.com.israman30/israman30/iOS.pdf)
+![Alt Text](https://github.com.israman30/iOS.pdf)
 
 
 

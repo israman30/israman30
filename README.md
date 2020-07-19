@@ -1,17 +1,11 @@
 ### Hi there, I'm pretending to be a Software Engineer! 👋
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAECcTZRMEA/view" width="350" title="hover text">
+  <img src="https://www.canva.com/design/DAECcTZRMEA/view" width="350" title="hover text"/>
 </p>
 
-![alt tag](https://www.canva.com/design/DAECcTZRMEA/V-HgRrU8dvBXIUy_crGNXg/edit?category=tACFasDnyEQ)
+![alt tag](https://www.canva.com/design/DAECcTZRMEA/view)
 
-<div
- class="canva-embed"
- data-design-id="DAECcTZRMEA"
- data-height-ratio="0.5625"
- style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
-></div>
 
 
 

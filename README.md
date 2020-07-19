@@ -1,10 +1,7 @@
 ### Hi there, I'm pretending to be a Software Engineer! 👋
 
-<p align="center">
-  <img src="https://www.canva.com/design/DAECcTZRMEA/view" width="350" title="hover text"/>
-</p>
 
-![alt tag](https://www.canva.com/design/DAECcTZRMEA/view)
+![alt text](https://github.com.israman30/israman30/iOS.png)
 
 
 

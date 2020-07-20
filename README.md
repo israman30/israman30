@@ -2,10 +2,8 @@
 <div>
   <img src="https://github.com/israman30/israman30/blob/master/img/cover.png">
 </div>
-
-#### 🇺🇸 Hi there, I'm a Software Engineer! 👋 
-#### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
-#### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
+                                                  
+#### 🇺🇸 Hi there, I'm a Software Engineer! 👋 | 🇪🇨 Hola, Soy Ingeniero en Software! 👋 | 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
 
 - 🔭 I’m currently working on SwiftUI
 - 🌱 I’m currently learning SwiftUI & Android Development

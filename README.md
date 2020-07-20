@@ -1,4 +1,3 @@
-<p align="center"><img src="/img/me.jpg" width="50px"></p>
 
 #### 🇺🇸 Hi there, I'm a Software Engineer! 👋 
 #### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 

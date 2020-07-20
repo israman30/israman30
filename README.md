@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning SwiftUI & Android Development
 - 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
 
-![animated](https://www.canva.com/design/DAECcTZRMEA/V-HgRrU8dvBXIUy_crGNXg/view)
+![animated](img/me.jpg)
 
 
 <!--

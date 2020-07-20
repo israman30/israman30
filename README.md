@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning SwiftUI & Android Development
 - 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
 
-<img src="img/me.jpg"/>
-
-![Screenshot](img/me.jpg)
+![Screenshot](https://github.com/israman30/israman30/blob/master/img/me.jpg)
 
 <!--
 **israman30/israman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,8 +2,9 @@
 ### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
 ### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
 
-![Alt Text](iOS.pdf)
-
+- 🔭 I’m currently working on clean my social medias
+- 🌱 I’m currently learning Android Development and Kotlin
+- 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
 
 <!--
 **israman30/israman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

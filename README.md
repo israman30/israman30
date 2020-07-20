@@ -2,7 +2,7 @@
 #### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
 #### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
 
-![Screenshot](img/iOS.png)
+![Screenshot](https://github.com/israman30/israman30/blob/master/img/iOS.pdf)
 
 - 🔭 I’m currently working on SwiftUI
 - 🌱 I’m currently learning SwiftUI & Android Development

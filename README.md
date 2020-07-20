@@ -1,3 +1,5 @@
+<p align="center"><img src="/img/me.jpg" width="50px"></p>
+
 #### 🇺🇸 Hi there, I'm a Software Engineer! 👋 
 #### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
 #### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
@@ -6,7 +8,7 @@
 - 🌱 I’m currently learning SwiftUI & Android Development
 - 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
 
-<p><img src="img/me.jpg" width="50px"></p>
+
 
 
 

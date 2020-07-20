@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning SwiftUI & Android Development
 - 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
 
-<img src="img/me.jpg">
+<img src="img/me.jpg" alt="yomismo">
 
 
 

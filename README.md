@@ -2,7 +2,7 @@
 ### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
 ### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
 
-![Alt Text](https://github.com/israman30/israman30/iOS.pdf)
+![Alt Text](https://github.com/israman30/israman30/master/iOS.pdf)
 
 
 <!--

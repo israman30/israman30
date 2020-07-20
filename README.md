@@ -9,7 +9,7 @@
 
 <img src="img/me.jpg" alt="yomismo">
 
-
+![Screenshot](img/me.jpg)
 
 <!--
 **israman30/israman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

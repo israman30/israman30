@@ -1,4 +1,4 @@
-### Hi there, I'm pretending to be a Software Engineer! 👋
+### Hi there, I'm a Software Engineer! 👋
 
 ![Alt Text](https://github.com/israman30/israman30/iOS.pdf)
 

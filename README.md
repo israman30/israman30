@@ -1,9 +1,9 @@
-### 🇺🇸 Hi there, I'm a Software Engineer! 👋 
-### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
-### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
+#### 🇺🇸 Hi there, I'm a Software Engineer! 👋 
+#### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
+#### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
 
 - 🔭 I’m currently working on clean my social medias
-- 🌱 I’m currently learning Android Development and Kotlin
+- 🌱 I’m currently learning SwiftUI & Android Development
 - 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
 
 <!--

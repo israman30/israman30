@@ -2,7 +2,7 @@
 ### 🇪🇨 Hola, Soy Ingeniero en Software! 👋 
 ### 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
 
-![Alt Text](master/iOS.pdf)
+![Alt Text](/iOS.pdf)
 
 
 <!--

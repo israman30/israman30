@@ -12,7 +12,9 @@ Hi, I am a Software Developer based at New York area focusing mainly on native a
 - 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
 
 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <!--
 **israman30/israman30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,10 +7,9 @@
 
 Hello, I'm a Software Developer located in the Washington DC area, specializing in native applications for both mobile and web platforms. My skill set revolves around __Swift__, __Kotlin__, and __JavaScript__, which I use to provide support, conduct testing, and architect end-to-end solutions for both existing and newly developed products.
 
-- 🔭 I’m currently working on SwiftUI
-- 🌱 I’m currently learning SwiftUI & Android Development
-- 👯 I’m looking to collaborate on any cool project based on Swift, Kotlin, JavaScript or Python
-
+- Presently, my focus lies on SwiftUI.
+- I am currently engaged in learning SwiftUI and Android Development.
+- I am enthusiastic about joining forces for exciting projects involving Swift, Kotlin, JavaScript, or Python.
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 

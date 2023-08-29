@@ -5,7 +5,7 @@
                                                   
 #### 🇺🇸 Hi there, I'm a Software Engineer! 👋 | 🇪🇨 Hola, Soy Ingeniero en Software! 👋 | 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 
 
-Hello, I'm a Software Developer located in the Washington DC area, specializing in native applications for both mobile and web platforms. My skill set revolves around __Swift__, __Kotlin__, and __JavaScript__, which I use to provide support, conduct testing, and architect end-to-end solutions for both existing and newly developed products.
+Greetings, I am a Software Engineer based in the Washington DC region, focusing on crafting native applications for both mobile and web platforms. My expertise lies in __Swift__, __Kotlin__, and __JavaScript__, enabling me to offer support, lead testing efforts, and engineer comprehensive solutions for both established and novel projects.
 
 - Presently, my focus lies on SwiftUI.
 - I am currently engaged in learning SwiftUI and Android Development.

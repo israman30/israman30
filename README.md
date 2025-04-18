@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://github.com/israman30/israman30/blob/master/img/cover.png" width="48">
+  <img src="https://github.com/israman30/israman30/blob/master/img/cover.png" height="150">
 </div>
                                                   
 #### 🇺🇸 Hi there, I'm a Software Engineer! 👋 | 🇪🇨 Hola, Soy Ingeniero en Software! 👋 | 🇮🇹 Ciao, I sono un Ingegnere del Software! 👋 

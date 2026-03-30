@@ -1,6 +1,10 @@
 
 # Hi, I'm Israel Manzo 👋  
 **Senior Software Engineer**
+<div>
+  <a href="https://beacons.ai/israman30>
+    <img height="180em" src="https//github-readme-stats.vercel.app/api?usernameisraman30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
 
 I build high-quality, scalable mobile applications with a focus on performance, clean architecture, and exceptional user experience. Passionate about crafting products that make an impact and solving complex engineering challenges.
 

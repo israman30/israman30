@@ -8,6 +8,10 @@
 
 https://github.com/search?q=author%3Aisraman30&type=commits
 
+![Israel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=israman30&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israman30&layout=compact&theme=radical&hide=html,css)
+
 I build high-quality, scalable mobile applications with a focus on performance, clean architecture, and exceptional user experience. Passionate about crafting products that make an impact and solving complex engineering challenges.
 
 ---

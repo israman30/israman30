@@ -44,3 +44,4 @@ I build high-quality, scalable mobile applications with a focus on performance, 
 - LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
+![banner](http://img.shields.io/badge/Code%20Palace-Official-success)

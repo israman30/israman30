@@ -1,14 +1,16 @@
 
-
-
-<h1 align="left">Israel Manzo</h1>
-
-###
-
-<h3 align="left">Senior Software Engineer</h3>
+ <div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=408247&text=Israel%20Manzo&fontSize=70&fontAlignY=40&desc=Staff%20iOS%20Engineer&descAlignY=65&descSize=20" />
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header" />
+<p align="left">
+  <h3>Specializing in Swift, SwiftUI, and Scalable Mobile Systems</h3>
+</p>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
+
+#
 
 <div align="center">
 <h3>🚀 Mobile Technology & Infrastructure</h3>

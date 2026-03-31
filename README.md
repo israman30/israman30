@@ -26,8 +26,8 @@
     <br/>
     <strong>Cloud & Infrastructure</strong><br/>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" />
-    
   </div>
+  <br/>
   <div style="display: inline-block; vertical-align: top;">
     <img src="https://streak-stats.demolab.com?user=israman30&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
   </div>

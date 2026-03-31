@@ -1,6 +1,6 @@
 
  <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=408247&text=Israel%20Manzo&fontSize=70&fontAlignY=40&desc=Staff%20iOS%20Engineer&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=408247&text=Israel%20Manzo&fontSize=70&fontAlignY=40&desc=Senior%20iOS%20Engineer&descAlignY=65&descSize=20" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header" />
 <p align="left">

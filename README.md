@@ -26,7 +26,7 @@
 
 ###
 ### 🚀 Mobile Technology & Infrastructure
-
+<div align="center">
 #### **Native iOS**
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
@@ -40,6 +40,7 @@
 
 #### **Cloud & DevOps**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+</div>
 
 ###
 
